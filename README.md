@@ -1,0 +1,1 @@
+This is game of a flappy bird in Java using Object Oriented Programming approach. Multiple classes are managed and linked with each other to perform the desired functionality. Frontend is developed using JFrame library of Java.
